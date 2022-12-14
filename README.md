@@ -56,8 +56,8 @@
   
   <h2>Contact Me ☎️</h2>
   <p>
-    Connect Me Over <a href="https://www.linkedin.com/in/goutham-rajesh-b9759117b/">LinkedIn</a>
+    Connect Me Over <a href="https://www.linkedin.com/in/gowrirajesh/">LinkedIn</a>
     <br>
-    Mail Me to <a href="mailto:gouthamkannus10@gmail.com"> Gmail </a>
+    Mail Me to <a href="mailto:gowrirajesh6@gmail.com"> Gmail </a>
   </p>
     
