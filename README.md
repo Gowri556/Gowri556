@@ -1,23 +1,23 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Vrindagupta6828/Vrindagupta6828/master/assest/hello.gif"></img>
 </p>
-<h1 align="center"> Hi, <img src= "https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png?v8" width="45px" height="45px"> I am Goutham Rajesh <h1>
+<h1 align="center"> Hi, <img src= "https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png?v8" width="45px" height="45px"> I am Gowri Rajesh <h1>
 <p align="center">
   <img src="Goutham - LinkedIn Banner.png"></img>
 </p>
-  <h3 align="center"> Tech Enthusiast. Volunteer. Content Creator </h3>
+  <h3 align="center"> Tech Enthusiast. Content Creator </h3>
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=gouthamrajesh&color=lightgrey">
   </p>
   
   <h2> Who Am I ? </h2>
-    <p>Myself <a href="https://gouthamrajesh.me/">Goutham Rajesh</a> currently pursuing 2nd Year B.Tech at GEC Barton Hill in IT Domain. Being an active Tech Enthusiast, I am exploring technical domains.</a> Also an active volunteer at various Technical Organization such as <a href="https://ieeegecbh.org/">IEEE SB GECBH</a>, <a href="https://ieeekerala.org/">IEEE Kerala Section</a>, <a href="https://www.csigecbh.in/">CSI</a> and much more...
+    <p>Myself Gowri Rajesh currently working as Security Engineer at Tata Consultancy Services. Passionate about technologies and tech world. 
 </p>
-<ul>
+<!-- <ul>
   <li>🔭 I’m currently learning to develop Websites, Applications and actively digging deep into Competitive Coding</li>
     <li>🌱 I’m currently learning MERN Stack.</li>
       <li>💬 Ask me about anything, I am happy to help.</li>
-</ul>
+</ul> 
   
 [![Goutham's GitHub stats](https://github-readme-stats.vercel.app/api?username=gouthamrajesh&show_icons=true&theme=dark)](https://github.com/gouthamrajesh/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gouthamrajesh&layout=compact)](https://github.com/gouthamrajesh/github-readme-stats)
@@ -28,7 +28,7 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=gouthamrajesh">
   </p>
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=gouthamrajesh">
-
+-->
   
   <h2>🛠Languages and Tools</h2>
   <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Abhijith14/Abhijith14/master/assets/code.gif"><img alt="Night Coding" src="https://raw.githubusercontent.com/Abhijith14/Abhijith14/master/assets/code.gif" align="right" style="max-width:100%;"></a>
